@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[2XL]]></title>
-        <description><![CDATA[2XL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Byrå med fokus på digital marknadsföring med smarta och effektiva medielösningar]]></title>
+        <description><![CDATA[Byrå med fokus på digital marknadsföring med smarta och effektiva medielösningar]]></description>
+        <link>https://thegrid.ai/2xl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 10:35:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 11:00:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/2xl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2XL Online]]></title>
             <description><![CDATA[<article><h1>2XL Online</h1><p>Vår starkaste drivkraft är att se till att våra kunder hela tiden förbättrar sin marknadsföring. Förutom vår kompetens är engagemang, nyfikenhet och erfarenhet några av våra viktigaste tillgångar. </p></article>]]></description>
-            <link>undefined2xl-online/index.html</link>
+            <link>https://thegrid.ai/2xl/2xl-online/index.html</link>
             <guid isPermaLink="false">8e96036e-9a20-4236-a894-c6e9242009e4</guid>
-            <pubDate>Tue, 02 Feb 2016 10:35:40 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 10:59:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
