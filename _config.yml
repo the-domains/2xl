@@ -1,6 +1,6 @@
 name: 2XL
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.19423
 title: Byrå med fokus på digital marknadsföring med smarta och effektiva medielösningar
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.25
   saturation: 0.6562036238610744
-  rhythmicContrast: 0.6159526477567852
+  rhythmicContrast: 0.75
 purpose: []
