@@ -1,20 +1,4 @@
-name: 2XL
-favicon: null
-layout_spectrum: 0.85611
-typography_spectrum: 0.43511
-title: 2XL Online – We help you to excel online
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#69c9f3'
   brandStrength: 1
   lightness: 1
-  saturation: 0.1875
   rhythmicContrast: 0.25
+  saturation: 0.1875
+cta: {}
+layout_spectrum: 0.577702
+name: 2XL
+opengraph: {}
 purpose: []
+typography_spectrum: 0.528716
